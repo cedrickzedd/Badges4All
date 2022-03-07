@@ -1,6 +1,8 @@
 # Badges4All
 This works by joining the [discord server](https://discord.gg/hGNtQ8rMQb) and requesting a custom badge.
 
+# Note
+Bdfdb by DevilBro is required for this to work. Install [here](https://betterdiscord.app/Download?id=59)
 # How much does this cost?
 Nothing! I don't earn money for this. I just want to grow my own community.
 
