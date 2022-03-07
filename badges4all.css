@@ -1,0 +1,30 @@
+/*Don't delete this*/
+[data-user-id="899392812871733300"] .name-3Vmqxm > .roleColor-nA7BqX::after{
+    content:" pill man";
+    color: #fff;
+    background: var(--brand-experiment);
+    height: 15px;
+    padding: 0 4px;
+    margin-top: 1px;
+    border-radius: 3px;
+    font-size: .625rem;
+    vertical-align: top;
+    margin-left: 4px;
+}
+/*<!>*/
+
+
+
+
+
+[data-user-id="899392812871733300"] .badgeList-2aoHPw::after,
+[data-user-id="899392812871733300"] .profileBadges-2pItdR::after,
+[data-user-id="899392812871733300"] .badgesChat-f_cbR8::after {
+  content: "";
+  width: 18px;
+  height: 18px;
+  margin-top: 4px;
+  background: url("https://cedrickzedd.github.io/transparent-pill.png") center / 100% 100%!important;
+  border-radius: 50%;
+  margin-left: 6px;
+}
