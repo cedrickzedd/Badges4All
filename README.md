@@ -5,7 +5,7 @@ In order for badges4all to work you will need to do the following :
 - Import badges4all `@import url("https://cedrickzedd.github.io/Badges4All/badges4all.css")` or download as a [theme](https://raw.githubusercontent.com/cedrickzedd/Badges4All/main/badges4all.theme.css)
 - Join the [discord server](https://discord.gg/hGNtQ8rMQb) and request a custom badge.
 
-# Note
+# Questions I might receive
 ## How much does this cost?
 Nothing! I don't earn money for this. I just want to grow my own community.
 
