@@ -25,4 +25,4 @@ Only one per person. This is only because I'm lazy and don't want to add more.
 
 - [#badges4all-support](https://discord.com/channels/950171326822363186/950197829324914749) is only to be used for bug reports, help with how to request, etc. no offtopic allowed
 
-- [general](https://discord.com/channels/950171326822363186/950171326822363189) this is where offtopic is allowed
+- [#general](https://discord.com/channels/950171326822363186/950171326822363189) this is where offtopic is allowed
