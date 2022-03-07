@@ -1,5 +1,5 @@
 # Badges4All
-This works by joining the discord server and requesting a custom badge.
+This works by joining the [discord server](https://discord.gg/hGNtQ8rMQb) and requesting a custom badge.
 
 # How much does this cost?
 Nothing! I don't earn money for this. I just want to grow my own community.
