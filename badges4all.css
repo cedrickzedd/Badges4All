@@ -28,3 +28,15 @@
   border-radius: 50%;
   margin-left: 6px;
 }
+
+[data-user-id="226447651917266944"] .badgeList-2aoHPw::after,
+[data-user-id="226447651917266944"] .profileBadges-2pItdR::after,
+[data-user-id="226447651917266944"] .badgesChat-f_cbR8::after {
+  content: "";
+  width: 18px;
+  height: 18px;
+  margin-top: 4px;
+  background: url("https://cedrickzedd.github.io/badgesimages/1.png") center / 100% 100%!important;
+  border-radius: 50%;
+  margin-left: 6px;
+}
